@@ -165,11 +165,6 @@
 <p style="margin: 10px 0 0 0;"><code style="background: rgba(255, 107, 107, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF6B6B;">Graph Neural Networks</code> <code style="background: rgba(255, 107, 107, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF6B6B;">PyTorch</code> <code style="background: rgba(255, 107, 107, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF6B6B;">NetworkX</code></p>
 </div>
 
-<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #FFD21E; background: linear-gradient(90deg, rgba(255, 210, 30, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 210, 30, 0.15);">
-<h3 style="color: #FFD21E; margin: 0 0 10px 0;">🎨 AI-Driven Image Editing System</h3>
-<p style="color: #8B949E; margin: 5px 0;"><strong>You Only Need to Ask</strong> - Natural language controlled image processing</p>
-<p style="margin: 10px 0 0 0;"><code style="background: rgba(255, 210, 30, 0.2); padding: 4px 8px; border-radius: 4px; color: #FFD21E;">PaddlePaddle</code> <code style="background: rgba(255, 210, 30, 0.2); padding: 4px 8px; border-radius: 4px; color: #FFD21E;">ERNIE Model</code> <code style="background: rgba(255, 210, 30, 0.2); padding: 4px 8px; border-radius: 4px; color: #FFD21E;">Image Processing</code></p>
-</div>
 
 </div>
 
