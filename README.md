@@ -33,9 +33,9 @@
 
 ### 🔬 Research Interests  
 <div style="color: #6B7280; line-height: 1.6;">
-• <span style="color: #667EEA; font-weight: 500;">Multimodal AI Systems</span><br/>
+• <span style="color: #667EEA; font-weight: 500;">Multimodal AI</span><br/>
 • <span style="color: #10B981; font-weight: 500;">Graph Neural Networks</span><br/>
-• <span style="color: #8B5CF6; font-weight: 500;">Machine Learning Applications</span><br/>
+• <span style="color: #8B5CF6; font-weight: 500;">Embodied AI</span><br/>
 
 </div>
 
